@@ -1,0 +1,10 @@
+Frecuency = 145.500 Mhz
+Velocity ratio of cable = 78%
+
+Length of radiant elements:
+
+150*0.95/145.5 = 0.97/2= 0.48 mts 48cm
+
+Length of cable:
+
+300*0.78/145.5=1.60/4= 0.40 mts 40cm
